@@ -1,3 +1,6 @@
 {
-  "ip":"gAAAAABjNw-dxkKyoUDhNccrlGdScgYGIgvieIYNNQP1rN5GVqgjJBbsgJ-4dYcMGfZZ8PfoF49TTkdg40m1nFQgaIuf_OfRhRud0WC9M0fdITjElvZPO2o="
+  "atela-data-api-ip":"gAAAAABjNw-dxkKyoUDhNccrlGdScgYGIgvieIYNNQP1rN5GVqgjJBbsgJ-4dYcMGfZZ8PfoF49TTkdg40m1nFQgaIuf_OfRhRud0WC9M0fdITjElvZPO2o=",
+  "atela-s3-ip":"",
+  "atela-neomony-ip":"",
+  "atela-quantela-ip":""
 }
